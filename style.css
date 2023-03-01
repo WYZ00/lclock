@@ -115,12 +115,12 @@ body{
     --myrotation : 200;
 
     width:2px;
-    height:130px;
+    height:145px;
     background-color:cyan;
     border-radius:10px;
 
-    left:155px;
-    top:10px;
+    left:150px;
+    top:20px;
 
     transform-origin:50% 130px;
     /* transform:rotate(200deg); */
